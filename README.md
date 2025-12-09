@@ -40,16 +40,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmet2725&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet2725&layout=compact&theme=tokyonight&hide_border=true&lang_count=6" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmet2725&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
 
 ---
 
@@ -63,7 +53,7 @@
   <a href="https://mehmet-sonmez.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:seninmailadresin@gmail.com">
+  <a href="mailto:mehmetsonmez5879@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
